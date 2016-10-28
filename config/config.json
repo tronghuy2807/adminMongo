@@ -1,0 +1,12 @@
+{
+  "connections": {
+    "countly": {
+      "connection_string": "mongodb://localhost:27017/countly",
+      "connection_options": {}
+    },
+    "aaa": {
+      "connection_string": "mongodb://eshop:123456@ds061374.mongolab.com:61374/eshop",
+      "connection_options": {}
+    }
+  }
+}
